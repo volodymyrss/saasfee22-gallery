@@ -13,10 +13,14 @@ sections:
     fixed: false
     text:
       title: Saas-Fee 2022
-      sub_title: welcoming scenery
+      #sub_title: welcoming scenery
       #date: 2015-12-18
   
+  - type: paragraph
+    title: Scenery
+  
   - type: pictures-group
+    fill_with: gallery/mountain/
     images:
       -
         - contrib/2022_01_25__Saas-Fee_Langflueh_Town.png
@@ -120,9 +124,6 @@ sections:
         - handson/DSC00607.jpg
         - handson/DSC00611.jpg
         - handson/DSC00614.jpg
-        - handson/DSC00636_01.jpg
-        - handson/DSC00636.jpg
-        - handson/DSC00727.jpg
   
   - type: full-picture
     image: DSC00612.jpg
