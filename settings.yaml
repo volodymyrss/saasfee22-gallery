@@ -1,0 +1,16 @@
+sub_title: Saas-Fee 2022 School
+title: Compact-Object Astrophysics in the Era of Multi-Messenger Astronomy
+password: 170817
+
+settings:
+  #theme: light
+  theme: exposure
+  #theme: material
+  deploy:
+    ssh: true
+    username: savchenk
+    hostname: login01.astro.unige.ch
+    dest: /www/people/savchenk/public_html/saasfee2022
+    others: # --delete-after (optional)
+
+

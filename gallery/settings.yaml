@@ -1,0 +1,203 @@
+title: Saas-Fee 2022
+date: 2022-01-18
+
+#theme: material
+theme: light
+#theme: exposure
+
+
+cover: handson/DSC00636.jpg
+sections:
+  - type: full-picture
+    image: handson/DSC00636.jpg
+    #image: handson/DSC00546.jpg
+    fixed: false
+    text:
+      title: Saas-Fee 2022
+      #sub_title: some subtitle
+      #date: 2015-12-18
+  
+      
+  - type: full-picture
+    image: contrib/2022_01_25__Saas-Fee_Langflueh_Wide.png
+    fixed: false
+    text:
+      title: Mountains
+      sub_title: welcoming scenery
+      #date: 2015-12-18
+  
+  - type: pictures-group
+    images:
+      -
+        - contrib/2022_01_25__Saas-Fee_Langflueh_Town.png
+        - contrib/2022_01_25__Saas-Fee_Langflueh_Wide.png
+        - mountain/20220124_223427.jpg
+        - mountain/20220124_223514.jpg
+        - mountain/20220126_154812_46.11367_7.92987.jpg
+        - mountain/20220126_155015_46.11367_7.92987.jpg
+        - mountain/DSC00513.jpg
+        - mountain/DSC00514.jpg
+      -
+        - mountain/DSC00521.jpg
+        - mountain/DSC00522.jpg
+        - mountain/DSC00547.jpg
+        - mountain/DSC00550.jpg
+        - handson/DSC00546.jpg
+        - handson/DSC00549.jpg
+        - mountain/DSC00516.jpg
+        - mountain/DSC00517.jpg
+      -
+        - contrib/20220124_223427.jpg
+        - contrib/DSC00531.JPG
+        - contrib/IMG_20220124_224412_604.jpg
+      -
+        - contrib/IMG_8463.jpg
+        - contrib/IMG_8486.jpg
+        - contrib/IMG_8506.jpg
+        - contrib/IMG_8510.jpg
+        - contrib/IMG_8533.jpg
+        - contrib/IMG_8544.jpg
+        - contrib/IMG_8547.jpg
+      -
+        - contrib/IMG_8553.jpg
+        - contrib/IMG_8559.jpg
+        - contrib/IMG_8567.jpg
+        - contrib/IMG_8576.jpg
+        - contrib/IMG_8578.jpg
+        - contrib/IMG_8584.jpg
+  
+
+  - type: paragraph
+    title: Hands-on sessions
+    #text: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor
+
+  - type: pictures-group
+    images:
+      -
+        - handson/20220125_175012.jpg
+        - handson/20220126_165841_01.jpg
+        - handson/20220127_084154.jpg
+        - handson/20220127_084204.jpg
+        - handson/20220127_084218.jpg
+      -
+        - handson/20220127_104429.jpg
+        - handson/20220127_153605.jpg
+        - handson/20220128_080419.jpg
+        - handson/20220128_104000.jpg
+        - handson/DSC00552_01.jpg
+        - handson/DSC00552_02.jpg
+      -
+        - handson/DSC00552.jpg
+        - handson/DSC00553.jpg
+        - handson/DSC00555.jpg
+        - handson/DSC00556.jpg
+        - handson/DSC00557.jpg
+        - handson/DSC00559.jpg
+        - handson/DSC00561.jpg
+        - handson/DSC00562.jpg
+        - handson/DSC00563.jpg
+        - handson/DSC00564.jpg
+        - handson/DSC00567.jpg
+      -
+        - handson/DSC00570.jpg
+        - handson/DSC00574.jpg
+        - handson/DSC00576.jpg
+        - handson/DSC00577.jpg
+        - handson/DSC00579.jpg
+        - handson/DSC00581.jpg
+        - handson/DSC00582.jpg
+        - handson/DSC00583.jpg
+        - handson/DSC00584.jpg
+      -
+        - handson/DSC00585.jpg
+        - handson/DSC00586.jpg
+        - handson/DSC00590.jpg
+        - handson/DSC00592.jpg
+        - handson/DSC00593.jpg
+        - handson/DSC00595.jpg
+        - handson/DSC00597.jpg
+        - handson/DSC00599.jpg
+        - handson/DSC00600.jpg
+      -
+        - handson/DSC00601.jpg
+        - handson/DSC00602.jpg
+        - handson/DSC00603.jpg
+        - handson/DSC00604.jpg
+        - handson/DSC00605.jpg
+        - handson/DSC00606.jpg
+        - handson/DSC00607.jpg
+        - handson/DSC00611.jpg
+        - handson/DSC00614.jpg
+        - handson/DSC00636_01.jpg
+        - handson/DSC00636.jpg
+        - handson/DSC00727.jpg
+  
+  - type: full-picture
+    image: DSC00612.jpg
+    fixed: true
+    text:
+      title: Cat
+      sub_title: reliable help and support for the course
+      #date: 2015-12-18
+  
+  - type: pictures-group
+    images:
+      -
+        - handson/20220125_173838.jpg
+        - contrib/2022-01-27_10.15.09.jpg
+        - DSC00612.jpg
+        - DSC00608.jpg
+        - DSC00609.jpg
+        - contrib/IMG_8469.jpg
+
+  - type: paragraph
+    title: Lectures
+    #text: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor
+
+  - type: pictures-group
+    images:
+      -
+        - lectures/20220126_110803.jpg
+        - lectures/20220126_110803.jpg
+        - lectures/20220126_110803.jpg
+        - lectures/20220126_110803.jpg
+
+  - type: full-picture
+    image: skiing/aeridanamicissues-f000967.png
+    fixed: true
+    text:
+      title: Skiing
+      sub_title: Some impressing skiing from the Lecturer
+      #date: 2015-12-18
+  
+  - type: pictures-group
+    images:
+      -
+        - skiing/aeridanamicissues-f000967.png
+        - contrib/20220127_175820.jpg
+        - contrib/20220127_175929.jpg
+        - contrib/GH010073_1643298345557.JPG
+      -
+        - name: skiing/starting.mp4
+          type: video
+        - name: skiing/letsski.mp4
+          type: video
+        - name: skiing/aerodanamicissues.mp4
+          type: video
+        - name: skiing/godownhere.mp4
+          type: video
+
+  - type: pictures-group
+    images:
+    -
+      - handson/DSC00636.jpg
+
+  
+  - type: full-picture
+    image: DSC00727_01.jpg
+    fixed: false
+    text:
+      title: The End
+      sub_title: Friday night Alalainhorn glows
+      date: 2022-01-28
+
