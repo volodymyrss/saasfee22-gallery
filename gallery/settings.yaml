@@ -9,20 +9,10 @@ theme: light
 cover: handson/DSC00636.jpg
 sections:
   - type: full-picture
-    image: handson/DSC00636.jpg
-    #image: handson/DSC00546.jpg
-    fixed: false
-    text:
-      title: Saas-Fee 2022
-      #sub_title: some subtitle
-      #date: 2015-12-18
-  
-      
-  - type: full-picture
     image: contrib/2022_01_25__Saas-Fee_Langflueh_Wide.png
     fixed: false
     text:
-      title: Mountains
+      title: Saas-Fee 2022
       sub_title: welcoming scenery
       #date: 2015-12-18
   
@@ -31,6 +21,9 @@ sections:
       -
         - contrib/2022_01_25__Saas-Fee_Langflueh_Town.png
         - contrib/2022_01_25__Saas-Fee_Langflueh_Wide.png
+        - mountain/9C7250B1-9F0C-4861-8116-CA78375600CB_1_105_c.jpeg
+        - mountain/image.png
+        - mountain/image1.png
         - mountain/20220124_223427.jpg
         - mountain/20220124_223514.jpg
         - mountain/20220126_154812_46.11367_7.92987.jpg
@@ -50,9 +43,9 @@ sections:
         - contrib/20220124_223427.jpg
         - contrib/DSC00531.JPG
         - contrib/IMG_20220124_224412_604.jpg
-      -
         - contrib/IMG_8463.jpg
         - contrib/IMG_8486.jpg
+      -
         - contrib/IMG_8506.jpg
         - contrib/IMG_8510.jpg
         - contrib/IMG_8533.jpg
@@ -80,14 +73,13 @@ sections:
         - handson/20220127_084204.jpg
         - handson/20220127_084218.jpg
       -
+        - cat/20220128_080419.jpg
         - handson/20220127_104429.jpg
         - handson/20220127_153605.jpg
         - handson/20220128_080419.jpg
         - handson/20220128_104000.jpg
         - handson/DSC00552_01.jpg
-        - handson/DSC00552_02.jpg
       -
-        - handson/DSC00552.jpg
         - handson/DSC00553.jpg
         - handson/DSC00555.jpg
         - handson/DSC00556.jpg
@@ -148,6 +140,7 @@ sections:
         - DSC00612.jpg
         - DSC00608.jpg
         - DSC00609.jpg
+        - cat/IMG_20220127_105257_1.jpg
         - contrib/IMG_8469.jpg
 
   - type: paragraph
