@@ -1,92 +1,85 @@
 cover: handson/DSC00636.jpg
 date: 2022-01-18
+theme: light
+title: Saas-Fee 2022
+
 sections:
-- fixed: false
-  image: contrib/2022_01_25__Saas-Fee_Langflueh_Wide.png
+
+- type: full-picture
+  fixed: true
+  image: contrib/2022_01_25__Saas-Fee_Langflueh_Wide_smaller.png
   text:
-    title: Saas-Fee 2022
-  type: full-picture
-- title: Scenery
-  type: paragraph
-- fill_with: gallery/mountain/
+    title: Saas-Fee 2022 
+    sub_title: the Scenery
+
+- type: pictures-group
+  fill_with: gallery/mountain/
   images:
   - - contrib/2022_01_25__Saas-Fee_Langflueh_Town.png
     - contrib/2022_01_25__Saas-Fee_Langflueh_Wide.png
-    - mountain/9C7250B1-9F0C-4861-8116-CA78375600CB_1_105_c.jpeg
-    - mountain/image.png
-    - mountain/image1.png
-    - mountain/20220124_223427.jpg
     - mountain/20220126_154812_46.11367_7.92987.jpg
     - mountain/20220126_155015_46.11367_7.92987.jpg
-    - mountain/DSC00513.jpg
-  - - mountain/DSC00521.jpg
-    - mountain/DSC00522.jpg
-    - mountain/DSC00547.jpg
-    - mountain/DSC00550.jpg
-    - handson/DSC00546.jpg
-    - handson/DSC00549.jpg
-    - mountain/DSC00516.jpg
-    - mountain/DSC00517.jpg
-  - - contrib/20220124_223427.jpg
-    - contrib/DSC00531.JPG
-    - contrib/IMG_20220124_224412_604.jpg
-    - contrib/IMG_8463.jpg
-    - contrib/IMG_8486.jpg
+
+
   - - contrib/IMG_8506.jpg
     - contrib/IMG_8510.jpg
-    - contrib/IMG_8533.jpg
+    - contrib/IMG_8486.jpg
+
+  - - contrib/IMG_8533.jpg
     - contrib/IMG_8544.jpg
-    - contrib/IMG_8547.jpg
+
+  - - mountain/image.png
+    - mountain/DSC00513_01.jpg
+    - mountain/DSC00547_01.jpg
+    - mountain/DSC00526.jpg
+
+  # pair
+  - - mountain/DSC00550.jpg
+    - mountain/DSC00629.jpg
+    - mountain/DSC00522_01.jpg # zoom haze
+ 
+  # ice
+  - - contrib/IMG_8547.jpg
+    - mountain/DSC00529_01.jpg
+    - mountain/DSC00531_01.jpg
+    - mountain/DSC00529.jpg
+  - - mountain/DSC00531.jpg
+    - mountain/DSC00514_01.jpg
+    - mountain/DSC00534.jpg
+      
+
+      #- mountain/9C7250B1-9F0C-4861-8116-CA78375600CB_1_105_c.jpeg
+
+  # night
   - - contrib/IMG_8553.jpg
-    - contrib/IMG_8559.jpg
+    - mountain/DSC00630.jpg
+    - contrib/IMG_8463.jpg
+    - mountain/DSC00619.jpg
+    - mountain/DSC00628.jpg
+    - mountain/DSC00620.jpg
+
+  - - contrib/IMG_8559.jpg
     - contrib/IMG_8567.jpg
     - contrib/IMG_8576.jpg
     - contrib/IMG_8578.jpg
     - contrib/IMG_8584.jpg
-  - - mountain/DSC00619.jpg
-    - mountain/DSC00522_01.jpg
-    - mountain/DSC00550.jpg
-    - mountain/DSC00546.jpg
-    - mountain/DSC00629.jpg
-    - mountain/20220124_223427.jpg
-    - mountain/DSC00620.jpg
-    - mountain/image1.png
-  - - mountain/DSC00513.jpg
-    - mountain/DSC00521.jpg
-    - mountain/DSC00547_01.jpg
-    - mountain/DSC00534.jpg
-    - mountain/20220126_154812_46.11367_7.92987_01.jpg
-    - mountain/DSC00630.jpg
-    - mountain/DSC00522.jpg
-  - - mountain/DSC00529_01.jpg
-    - mountain/20220126_155015_46.11367_7.92987_01.jpg
-    - mountain/DSC00547.jpg
-    - mountain/DSC00550_01.jpg
-    - mountain/DSC00516_01.jpg
-    - mountain/DSC00531_01.jpg
-    - mountain/DSC00529.jpg
-    - mountain/9C7250B1-9F0C-4861-8116-CA78375600CB_1_105_c.jpeg
-  - - mountain/20220126_154812_46.11367_7.92987.jpg
-    - mountain/DSC00628.jpg
-    - mountain/DSC00531.jpg
-    - mountain/DSC00516.jpg
-    - mountain/image.png
-    - mountain/DSC00526.jpg
-    - mountain/DSC00514_01.jpg
-  - - mountain/DSC00626.jpg
-    - mountain/DSC00517.jpg
-    - mountain/20220126_155015_46.11367_7.92987.jpg
-  type: pictures-group
-- title: Hands-on sessions
-  type: paragraph
-- images:
-  - - handson/20220125_175012.jpg
+
+
+- type: full-picture
+  fixed: true
+  image: handson/20220125_175012.jpg
+  text:
+    title: the learning
+
+
+- type: pictures-group
+  images:
+  - - lectures/20220126_110803.jpg
     - handson/20220126_165841_01.jpg
     - handson/20220127_084154.jpg
     - handson/20220127_084204.jpg
     - handson/20220127_084218.jpg
-  - - cat/20220128_080419.jpg
-    - handson/20220127_104429.jpg
+  - - handson/20220127_104429.jpg
     - handson/20220127_153605.jpg
     - handson/20220128_080419.jpg
     - handson/20220128_104000.jpg
@@ -128,14 +121,16 @@ sections:
     - handson/DSC00607.jpg
     - handson/DSC00611.jpg
     - handson/DSC00614.jpg
-  type: pictures-group
+
 - fixed: true
   image: cat/DSC00612.jpg
   text:
-    sub_title: reliable help and support for the course
-    title: Cat
+    sub_title: gracious host
+    title: the Cat
   type: full-picture
-- images:
+
+- type: pictures-group
+  images:
   - - handson/20220125_173838.jpg
     - contrib/2022-01-27_10.15.09.jpg
     - cat/DSC00612.jpg
@@ -143,23 +138,15 @@ sections:
     - DSC00609.jpg
     - cat/IMG_20220127_105257_1.jpg
     - contrib/IMG_8469.jpg
-  type: pictures-group
-- title: Lectures
-  type: paragraph
-- images:
-  - - lectures/20220126_110803.jpg
-    - lectures/20220126_110803.jpg
-    - lectures/20220126_110803.jpg
-    - lectures/20220126_110803.jpg
-  type: pictures-group
+
 - fixed: true
-  image: skiing/aeridanamicissues-f000967.png
+  image: skiing/GH020073-finaldownhill-f014570.png
   text:
-    sub_title: Some impressing skiing from the Lecturer
-    title: Skiing
+    sub_title: Some impressing skiing from Ilya
+    title: the Skiing
   type: full-picture
 - images:
-  - - skiing/aeridanamicissues-f000967.png
+  - - skiing/GH020073-finaldownhill-f014570.png
     - contrib/20220127_175820.jpg
     - contrib/20220127_175929.jpg
     - contrib/GH010073_1643298345557.JPG
@@ -179,8 +166,6 @@ sections:
   image: DSC00727_01.jpg
   text:
     date: 2022-01-28
-    sub_title: Friday night Alalainhorn glows
+    sub_title: See you!
     title: The End
   type: full-picture
-theme: light
-title: Saas-Fee 2022
