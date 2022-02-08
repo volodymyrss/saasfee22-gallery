@@ -1,5 +1,5 @@
 cover: handson/DSC00636.jpg
-date: 2022-01-18
+sub_title: 
 theme: light
 title: Saas-Fee 2022
 
@@ -10,7 +10,8 @@ sections:
   image: contrib/2022_01_25__Saas-Fee_Langflueh_Wide_smaller.png
   text:
     title: Saas-Fee 2022 
-    sub_title: the Scenery
+    sub_title: 23 - 29 January 2022 
+    
 
 - type: pictures-group
   fill_with: gallery/mountain/
@@ -36,13 +37,12 @@ sections:
   # pair
   - - mountain/DSC00550.jpg
     - mountain/DSC00629.jpg
-    - mountain/DSC00522_01.jpg # zoom haze
  
   # ice
-  - - contrib/IMG_8547.jpg
+  - - mountain/DSC00522_01.jpg # zoom haze
+    - contrib/IMG_8547.jpg
     - mountain/DSC00529_01.jpg
     - mountain/DSC00531_01.jpg
-    - mountain/DSC00529.jpg
   - - mountain/DSC00531.jpg
     - mountain/DSC00514_01.jpg
     - mountain/DSC00534.jpg
@@ -159,9 +159,12 @@ sections:
     - name: skiing/godownhere.mp4
       type: video
   type: pictures-group
+
 - images:
   - - handson/DSC00636.jpg
   type: pictures-group
+
+
 - fixed: false
   image: DSC00727_01.jpg
   text:
@@ -169,3 +172,12 @@ sections:
     sub_title: See you!
     title: The End
   type: full-picture
+
+- type: paragraph
+  text: |
+      
+      <div width="100%" align="center"><a href="https://www.astro.unige.ch/saasfee2022">Visit school site for more info!</a>
+      <br>
+      <br>
+      <small>Photos contributed by mutliple participants.<br> Please <a href="https://www.astro.unige.ch/saasfee2022/content/contact">contact the conference organizers</a> with any concerns or questions.</small>
+      </div>
