@@ -47,9 +47,6 @@ sections:
     - mountain/DSC00514_01.jpg
     - mountain/DSC00534.jpg
       
-
-      #- mountain/9C7250B1-9F0C-4861-8116-CA78375600CB_1_105_c.jpeg
-
   # night
   - - contrib/IMG_8553.jpg
     - mountain/DSC00630.jpg
@@ -58,11 +55,14 @@ sections:
     - mountain/DSC00628.jpg
     - mountain/DSC00620.jpg
 
+      #- mountain/9C7250B1-9F0C-4861-8116-CA78375600CB_1_105_c.jpeg
   - - contrib/IMG_8559.jpg
     - contrib/IMG_8567.jpg
     - contrib/IMG_8576.jpg
     - contrib/IMG_8578.jpg
     - contrib/IMG_8584.jpg
+
+
 
 
 - type: full-picture
@@ -168,7 +168,7 @@ sections:
 - fixed: false
   image: DSC00727_01.jpg
   text:
-    date: 2022-01-28
+      #date: 2022-01-28
     sub_title: See you!
     title: The End
   type: full-picture
