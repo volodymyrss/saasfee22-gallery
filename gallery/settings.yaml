@@ -64,27 +64,52 @@ sections:
 
 
 
-
 - type: full-picture
   fixed: true
   image: handson/20220125_175012.jpg
   text:
     title: the learning
 
-
 - type: pictures-group
   images:
-  - - lectures/20220126_110803.jpg
-    - handson/20220126_165841_01.jpg
+  - - handson/20220125_175012.jpg
+    - contrib2/20220124_102904.jpg # group
+    - contrib2/20220124_102918.jpg # group
+    - contrib2/20220124_102928.jpg # group
+    - contrib2/Image_from_iOS10.jpg # group
+    - contrib2/Image_from_iOS3.jpg
+  
+
+  - - contrib2/Image_from_iOS2.jpg
+    - name: contrib2/Image_from_iOS.mp4
+      type: video
+    - contrib2/Image_from_iOS4.jpg
+
+  - - contrib2/Image_from_iOS1.jpg
+    - contrib2/Image_from_iOS7.jpg
+    - contrib2/IMG_9939.jpg
+    - lectures/20220126_110803.jpg
+    - contrib2/Image_from_iOS.jpg
+    - contrib2/Image_from_iOS11.jpg
+    
+  - - contrib2/20220127_104424.jpg # bhs
+    - contrib2/20220127_104526.jpg # bhs
+    - contrib2/20220127_105124.jpg # bhs
     - handson/20220127_084154.jpg
     - handson/20220127_084204.jpg
     - handson/20220127_084218.jpg
-  - - handson/20220127_104429.jpg
+    - handson/20220127_104429.jpg
     - handson/20220127_153605.jpg
+
+  - - handson/20220128_104000.jpg
     - handson/20220128_080419.jpg
-    - handson/20220128_104000.jpg
-    - handson/DSC00552_01.jpg
-  - - handson/DSC00553.jpg
+    - contrib2/Image_from_iOS13.jpg
+    - contrib2/Image_from_iOS15.jpg
+    - handson/20220126_165841_01.jpg
+    - handson/DSC00582.jpg
+
+  - - handson/DSC00552_01.jpg
+    - handson/DSC00553.jpg
     - handson/DSC00555.jpg
     - handson/DSC00556.jpg
     - handson/DSC00557.jpg
@@ -100,7 +125,6 @@ sections:
     - handson/DSC00577.jpg
     - handson/DSC00579.jpg
     - handson/DSC00581.jpg
-    - handson/DSC00582.jpg
     - handson/DSC00583.jpg
     - handson/DSC00584.jpg
   - - handson/DSC00585.jpg
@@ -122,6 +146,19 @@ sections:
     - handson/DSC00611.jpg
     - handson/DSC00614.jpg
 
+- type: paragraph
+  title: also learning, but out of the classroom
+
+- type: pictures-group
+  images:
+  -
+    - contrib2/Image_from_iOS8.jpg
+    - contrib2/Image_from_iOS9.jpg
+    - contrib2/IMG_9924.jpg
+    - contrib2/IMG_9926.jpg
+    - contrib2/IMG_9927.jpg
+    - contrib2/IMG_9929.jpg
+
 - fixed: true
   image: cat/DSC00612.jpg
   text:
@@ -138,6 +175,7 @@ sections:
     - DSC00609.jpg
     - cat/IMG_20220127_105257_1.jpg
     - contrib/IMG_8469.jpg
+    - contrib2/Image_from_iOS17.jpg
 
 - fixed: true
   image: skiing/GH020073-finaldownhill-f014570.png
